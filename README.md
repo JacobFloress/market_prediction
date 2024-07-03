@@ -2,7 +2,7 @@
 
 This project aims to predict the price of the S&P 500 stock market index using machine learning models.
 
-## Project Steps
+## Project Overview
 
 1. **Download Data**: Using the `yfinance` package.
 2. **Initial Model**: Create an initial machine learning model and estimate its accuracy.
@@ -11,24 +11,11 @@ This project aims to predict the price of the S&P 500 stock market index using m
 
 ## Code
 
-You can find the code for this project in the `market_prediction.ipynb` Jupyter notebook.
+You can find the code for this project in the [`market_prediction.ipynb`](market_prediction.ipynb) Jupyter notebook.
 
 ## Local Setup
 
 ### Installation
-
-To follow this project, please install the following locally:
-
-1. **JupyterLab**: You can install JupyterLab via pip.
-   ```bash
-   pip install jupyterlab
-
-File overview:
-
-- market_prediction.ipynb - a Jupyter notebook that contains all of the code.
-# Local Setup
-
-# Installation
 
 To follow this project, please install the following locally:
 
@@ -38,6 +25,7 @@ To follow this project, please install the following locally:
     - pandas
     - yfinance
     - scikit-learn
-# Data
+  
+## Data
 
 We'll download all of the data during the project, using the "yfinance" package.
