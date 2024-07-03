@@ -30,4 +30,4 @@ To follow this project, please install the following locally:
     - scikit-learn
 # Data
 
-We'll download all of the data during the project, using the yfinance package.
+We'll download all of the data during the project, using the "yfinance" package.
