@@ -1,4 +1,4 @@
-# [`S&P 500 Stock Market Index Prediction`](https://github.com/JacobFloress/market_prediction)
+# S&P 500 Stock Market Index Prediction
 
 This project aims to predict the price of the S&P 500 stock market index using machine learning models.
 
@@ -12,6 +12,7 @@ This project aims to predict the price of the S&P 500 stock market index using m
 ## Code
 
 You can find the code for this project in the [`market_prediction.ipynb`](market_prediction.ipynb) Jupyter notebook.
+My Github repository is [`here`](https://github.com/JacobFloress/market_prediction)
 
 ## Local Setup
 
