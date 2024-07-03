@@ -1,4 +1,4 @@
-# S&P 500 Stock Market Index Prediction
+# [`S&P 500 Stock Market Index Prediction`](https://github.com/JacobFloress/market_prediction)
 
 This project aims to predict the price of the S&P 500 stock market index using machine learning models.
 
